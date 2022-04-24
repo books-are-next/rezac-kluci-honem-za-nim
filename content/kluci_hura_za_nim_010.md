@@ -1,11 +1,7 @@
 ---
+title: ŠESTÁ KAPITOLA Kdo byl děd Zachariáš
 contentType: prose
 ---
-
-ŠESTÁ KAPITOLA  
-Kdo byl děd Zachariáš
-
-  
 
 Dědova noha nebyla zlomená, jen vymknutá v kotníku. Valnoha svolal své kamarády, kteří se beztak začínali vracet, protože jak by mohli ostatní utéci, když jeden zůstal v nebezpečí. Všichni společně pomohli starci dobelhat se zpátky do domu. Byl to perný kousek cesty, a zpotili se při něm všichni: stařec i chlapci.
 

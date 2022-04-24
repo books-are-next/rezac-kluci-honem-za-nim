@@ -1,11 +1,7 @@
 ---
+title: 'ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni? '
 contentType: prose
 ---
-
-ČTRNÁCTÁ KAPITOLA  
-Co si přejí mladí páni?
-
-  
 
 Slavná obec kopaninská leží v klidu a v odpoledním slunci, domům je takové horko, že by se nejraději rozutekly a skryly se někde ve stínu nebo se ponořily do řeky. Před hostincem pana Ferbuse, pod starým kaštanem, si hraje ve špinavém písku malá holčička a uvnitř hostince její tatínek, ten číšník nebo zloděj nebo kdo to vlastně je, myje sklenice a pan Ferbus, široce rozvalen na židli, pokuřuje z dlouhé dýmky se sádrovou hlavičkou a chvílemi dříme. A nikdo, ani Kopanina, ani pan Ferbus, ani zloděj číšník netuší, že se k nim blíží zrada.
 

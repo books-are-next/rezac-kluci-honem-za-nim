@@ -1,11 +1,7 @@
 ---
+title: DEVÁTÁ KAPITOLA Co viděl Sirka
 contentType: prose
 ---
-
-DEVÁTÁ KAPITOLA  
-Co viděl Sirka
-
-  
 
 – Tak, děde Zachariáši. Už jsem si dost odpočinul a zase mohu.
 

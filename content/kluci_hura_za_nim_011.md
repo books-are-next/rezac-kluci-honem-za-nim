@@ -1,11 +1,7 @@
 ---
+title: SEDMÁ KAPITOLA Kdo nám poradí?
 contentType: prose
 ---
-
-SEDMÁ KAPITOLA  
-Kdo nám poradí?
-
-  
 
 Já vím, že si říkáte: to je řečí, to je povídání o dědu Zachariášovi. Copak je nám vlastně do něho? To jste se tu, pane, o něm rozpovídal a na zloděje jste zapomněl. Kdoví kam ten si zatím zašantročil svou kořist a kde se skrývá v bezpečí. Možná že si vyhrává na Valnohovu dvoulampovku a má z nás ze všech pořádnou švandu. Dobrá, miláčkové, povídám vám, tak si běžte a chytejte si ho sami. Což jste neviděli, jak nám upláchl a že jsme se octli v koncích? Děd Zachariáš je naše poslední naděje.
 

@@ -1,11 +1,7 @@
 ---
+title: DRUHÁ KAPITOLA Lesní skrýše
 contentType: prose
 ---
-
-DRUHÁ KAPITOLA  
-Lesní skrýše
-
-  
 
 Ať si jdou sami kousek po pěšině. Než začne jejich cesta být zajímavá, povíme si, kde vlastně jsme.
 

@@ -1,11 +1,7 @@
 ---
+title: DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství
 contentType: prose
 ---
-
-DEVATENÁCTÁ KAPITOLA  
-Zrzkovo hrdinství
-
-  
 
 – Kdyby tu byl alespoň nějaký žebřík, abychom mohli vylézt nahoru, vzdychne Valnoha, a zaplaťpámbu, že to řekl.
 
