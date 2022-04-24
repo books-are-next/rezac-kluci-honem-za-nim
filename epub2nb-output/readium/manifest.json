@@ -1,0 +1,231 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Kluci, hurá za ním!",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Václav Řezáč",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-11-04T00:00:00.000Z",
+    "published": "2021-11-03T06:38:44.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kluci_hura_za_nim_025.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_kluci_hura_za_nim.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují",
+      "href": "OEBPS/Text/kluci_hura_za_nim_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "DRUHÁ KAPITOLA Lesní skrýše",
+      "href": "OEBPS/Text/kluci_hura_za_nim_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "TŘETÍ KAPITOLA Kdo je tam?",
+      "href": "OEBPS/Text/kluci_hura_za_nim_007.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "ČTVRTÁ KAPITOLA Kluci, hurá za ním!",
+      "href": "OEBPS/Text/kluci_hura_za_nim_008.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "PÁTÁ KAPITOLA Strážce pokladů",
+      "href": "OEBPS/Text/kluci_hura_za_nim_009.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "ŠESTÁ KAPITOLA Kdo byl děd Zachariáš",
+      "href": "OEBPS/Text/kluci_hura_za_nim_010.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "SEDMÁ KAPITOLA Kdo nám poradí?",
+      "href": "OEBPS/Text/kluci_hura_za_nim_011.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "OSMÁ KAPITOLA Křišťálová koule",
+      "href": "OEBPS/Text/kluci_hura_za_nim_012.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "DEVÁTÁ KAPITOLA Co viděl Sirka",
+      "href": "OEBPS/Text/kluci_hura_za_nim_013.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "DESÁTÁ KAPITOLA Už ho máme!",
+      "href": "OEBPS/Text/kluci_hura_za_nim_014.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili?",
+      "href": "OEBPS/Text/kluci_hura_za_nim_015.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "DVANÁCTÁ KAPITOLA Sirka slídí",
+      "href": "OEBPS/Text/kluci_hura_za_nim_016.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává",
+      "href": "OEBPS/Text/kluci_hura_za_nim_017.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?",
+      "href": "OEBPS/Text/kluci_hura_za_nim_018.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "PATNÁCTÁ KAPITOLA Už je tam!",
+      "href": "OEBPS/Text/kluci_hura_za_nim_019.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!",
+      "href": "OEBPS/Text/kluci_hura_za_nim_020.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá",
+      "href": "OEBPS/Text/kluci_hura_za_nim_021.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "OSMNÁCTÁ KAPITOLA Pomoc! Hoří!",
+      "href": "OEBPS/Text/kluci_hura_za_nim_022.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství",
+      "href": "OEBPS/Text/kluci_hura_za_nim_023.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "DVACÁTÁ KAPITOLA Třikrát: Sláva!",
+      "href": "OEBPS/Text/kluci_hura_za_nim_024.xhtml#_idParaDest-20"
+    }
+  ]
+}

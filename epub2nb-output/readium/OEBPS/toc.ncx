@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kluci, hurá za ním!</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>DRUHÁ KAPITOLA Lesní skrýše</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>TŘETÍ KAPITOLA Kdo je tam?</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ČTVRTÁ KAPITOLA Kluci, hurá za ním!</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>PÁTÁ KAPITOLA Strážce pokladů</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ŠESTÁ KAPITOLA Kdo byl děd Zachariáš</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>SEDMÁ KAPITOLA Kdo nám poradí?</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>OSMÁ KAPITOLA Křišťálová koule</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DEVÁTÁ KAPITOLA Co viděl Sirka</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>DESÁTÁ KAPITOLA Už ho máme!</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>JEDENÁCTÁ KAPITOLA Proč jste ho pustili?</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>DVANÁCTÁ KAPITOLA Sirka slídí</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>TŘINÁCTÁ KAPITOLA Příběh se nám zamotává</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_018.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>PATNÁCTÁ KAPITOLA Už je tam!</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_019.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_020.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_021.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>OSMNÁCTÁ KAPITOLA Pomoc! Hoří!</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_022.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_023.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>DVACÁTÁ KAPITOLA Třikrát: Sláva!</text>
+      </navLabel>
+      <content src="Text/kluci_hura_za_nim_024.xhtml#_idParaDest-20"/>
+    </navPoint>
+  </navMap>
+</ncx>
