@@ -1,11 +1,7 @@
 ---
+title: PATNÁCTÁ KAPITOLA Už je tam!
 contentType: prose
 ---
-
-PATNÁCTÁ KAPITOLA  
-Už je tam!
-
-  
 
 Řekli jsme si, jestliže to všechno dopadne dobře a jestliže se pan Ferbus dal oklamat Valnohou a Zrzkem, bude tu zítra po poledni jako na koni. A kolik že je nyní? Navlas půl jedné. A kdože to přechází a přešlapuje na silnici před zámečkem? Pan Ferbus a jeho číšník. Hostinský přišel taky, aby snad číšníka nenapadlo vyhnout se té škaredé práci a vymluvit se, že chlapci nemluvili pravdu a že děd Zachariáš se vůbec nehnul ze zámečku. A také proto s ním přišel, aby ho střežil při práci, dělal mu zeď, jak říkají příslušníci zlodějského cechu.
 

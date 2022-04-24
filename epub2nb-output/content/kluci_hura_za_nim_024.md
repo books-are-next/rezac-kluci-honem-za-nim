@@ -1,11 +1,7 @@
 ---
+title: 'DVACÁTÁ KAPITOLA Třikrát: Sláva!'
 contentType: prose
 ---
-
-DVACÁTÁ KAPITOLA  
-Třikrát: Sláva!
-
-  
 
 V tu chvíli asi, kdy kopaninský stařeček začal vyzvánět na poplach a chlapci vlekli stříkačku k požářišti, děd Zachariáš, znepokojen jejich dlouhou nepřítomností, rozhodl se k činu. Jaképak fraky a dlouhé tahanice s takovým ničemou, jako je pan Ferbus, usoudil děd. Půjdeme k němu, vezmeme ho za ručičku a dovedeme ho spolu na Kopaninu. A tam pěkně na místě s ním zúčtujeme. Mělo mne to napadnout hned a nemusel jsem ty hochy posílat zbůhdarma napřed.
 

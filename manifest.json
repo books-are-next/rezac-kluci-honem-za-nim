@@ -1,0 +1,470 @@
+{
+  "author": "Václav Řezáč",
+  "contenttype": "prose",
+  "identifier": "rezac-kluci-hura-za-nim-74ecee5",
+  "isbn": "978-80-7335-286-8; 978-80-87440-29-2",
+  "languagecode": "cs",
+  "modified": "2021-11-04T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "title": "Kluci, hurá za ním!",
+  "revision": "74ecee5",
+  "generatedAt": {
+    "date": "Sun Apr 24 2022 21:47:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650836878094
+  },
+  "documents": [
+    {
+      "title": "Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kluci_hura_za_nim_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_005.html",
+      "words": 1351,
+      "chars": 7347,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 1,
+      "prev": "kluci_hura_za_nim_002.html",
+      "next": "kluci_hura_za_nim_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DRUHÁ KAPITOLA Lesní skrýše • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_006.html",
+      "words": 1547,
+      "chars": 8723,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kluci_hura_za_nim_005.html",
+      "next": "kluci_hura_za_nim_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DRUHÁ KAPITOLA Lesní skrýše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TŘETÍ KAPITOLA Kdo je tam? • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_007.html",
+      "words": 2073,
+      "chars": 11613,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kluci_hura_za_nim_006.html",
+      "next": "kluci_hura_za_nim_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TŘETÍ KAPITOLA Kdo je tam?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČTVRTÁ KAPITOLA Kluci, hurá za ním! • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_008.html",
+      "words": 1938,
+      "chars": 10643,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kluci_hura_za_nim_007.html",
+      "next": "kluci_hura_za_nim_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČTVRTÁ KAPITOLA Kluci, hurá za ním!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PÁTÁ KAPITOLA Strážce pokladů • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_009.html",
+      "words": 1086,
+      "chars": 6257,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kluci_hura_za_nim_008.html",
+      "next": "kluci_hura_za_nim_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PÁTÁ KAPITOLA Strážce pokladů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ŠESTÁ KAPITOLA Kdo byl děd Zachariáš • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_010.html",
+      "words": 819,
+      "chars": 4981,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kluci_hura_za_nim_009.html",
+      "next": "kluci_hura_za_nim_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ŠESTÁ KAPITOLA Kdo byl děd Zachariáš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SEDMÁ KAPITOLA Kdo nám poradí? • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_011.html",
+      "words": 1267,
+      "chars": 7104,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kluci_hura_za_nim_010.html",
+      "next": "kluci_hura_za_nim_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SEDMÁ KAPITOLA Kdo nám poradí?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSMÁ KAPITOLA Křišťálová koule • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_012.html",
+      "words": 1796,
+      "chars": 9967,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kluci_hura_za_nim_011.html",
+      "next": "kluci_hura_za_nim_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSMÁ KAPITOLA Křišťálová koule",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DEVÁTÁ KAPITOLA Co viděl Sirka • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_013.html",
+      "words": 1123,
+      "chars": 6241,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kluci_hura_za_nim_012.html",
+      "next": "kluci_hura_za_nim_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEVÁTÁ KAPITOLA Co viděl Sirka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DESÁTÁ KAPITOLA Už ho máme! • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_014.html",
+      "words": 2361,
+      "chars": 13078,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kluci_hura_za_nim_013.html",
+      "next": "kluci_hura_za_nim_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DESÁTÁ KAPITOLA Už ho máme!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili? • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_015.html",
+      "words": 1817,
+      "chars": 9731,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kluci_hura_za_nim_014.html",
+      "next": "kluci_hura_za_nim_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DVANÁCTÁ KAPITOLA Sirka slídí • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_016.html",
+      "words": 1288,
+      "chars": 7291,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kluci_hura_za_nim_015.html",
+      "next": "kluci_hura_za_nim_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DVANÁCTÁ KAPITOLA Sirka slídí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_017.html",
+      "words": 1694,
+      "chars": 9614,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kluci_hura_za_nim_016.html",
+      "next": "kluci_hura_za_nim_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?  • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_018.html",
+      "words": 1790,
+      "chars": 9865,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 14,
+      "prev": "kluci_hura_za_nim_017.html",
+      "next": "kluci_hura_za_nim_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PATNÁCTÁ KAPITOLA Už je tam! • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_019.html",
+      "words": 1062,
+      "chars": 6108,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 15,
+      "prev": "kluci_hura_za_nim_018.html",
+      "next": "kluci_hura_za_nim_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PATNÁCTÁ KAPITOLA Už je tam!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho! • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_020.html",
+      "words": 1936,
+      "chars": 10874,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 16,
+      "prev": "kluci_hura_za_nim_019.html",
+      "next": "kluci_hura_za_nim_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_021.html",
+      "words": 1746,
+      "chars": 9875,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 17,
+      "prev": "kluci_hura_za_nim_020.html",
+      "next": "kluci_hura_za_nim_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSMNÁCTÁ KAPITOLA Pomoc! Hoří! • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_022.html",
+      "words": 1160,
+      "chars": 6504,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 18,
+      "prev": "kluci_hura_za_nim_021.html",
+      "next": "kluci_hura_za_nim_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSMNÁCTÁ KAPITOLA Pomoc! Hoří!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_023.html",
+      "words": 1787,
+      "chars": 10028,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 19,
+      "prev": "kluci_hura_za_nim_022.html",
+      "next": "kluci_hura_za_nim_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DVACÁTÁ KAPITOLA Třikrát: Sláva! • Kluci, hurá za ním!",
+      "file": "kluci_hura_za_nim_024.html",
+      "words": 1185,
+      "chars": 6966,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 20,
+      "prev": "kluci_hura_za_nim_023.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DVACÁTÁ KAPITOLA Třikrát: Sláva!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Kluci, hurá za ním!",
+      "file": "colophon.html",
+      "words": 161,
+      "chars": 1024,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "kluci_hura_za_nim_024.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 30994,
+      "chars": 173868,
+      "ideas": 740
+    },
+    "chapters": {
+      "words": 30826,
+      "chars": 172810,
+      "ideas": 714
+    }
+  }
+}

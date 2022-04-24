@@ -1,11 +1,7 @@
 ---
+title: ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!
 contentType: prose
 ---
-
-ŠESTNÁCTÁ KAPITOLA  
-Pozor, vojáci! Chopte se ho!
-
-  
 
 Řekli jsme prve bác. A to bác znamená mnoho věcí, nebo aspoň dvě. Bác udělal především zloděj, který, jakmile se pustil z okna dovnitř, po něčem sklouzl a bacil sebou na zem. To druhé bác udělala okenice, která se za ním s třeskem zavřela.
 

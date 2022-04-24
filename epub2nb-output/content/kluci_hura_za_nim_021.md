@@ -1,11 +1,7 @@
 ---
+title: SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá
 contentType: prose
 ---
-
-SEDMNÁCTÁ KAPITOLA  
-Nyklíček se zpovídá
-
-  
 
 Zloděj sedí v pokoji děda Zachariáše jako před soudem a zodpovídá se.
 

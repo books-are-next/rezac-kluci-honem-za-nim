@@ -1,11 +1,7 @@
 ---
+title: TŘETÍ KAPITOLA Kdo je tam?
 contentType: prose
 ---
-
-TŘETÍ KAPITOLA  
-Kdo je tam?
-
-  
 
 Nad úvalem se kluci zastavili a rozhlédli se naposled, zdali je nikdo ne­sleduje. Ve zmatku nad příhodou s kolem zapomněli na svou obvyklou opatrnost. Naslouchají nyní ostražitě, neozývá-li se kolem nic podezřelého. Něco zašelestilo v listí. Ohlédnou se všichni tři tím směrem, ale je to jen kos, který si dobývá svou potravu. Někde tu ještě vyzpěvuje pěnkava, sýkorka cvrliká a v dálce houká automobil. Chlapci jsou uklid­něni těmi známými zvuky. Chystají se zvednout kolo, spustit je dolů a skočit za ním. Tu se Sirka znenadání přikrčí a sykne tiše jako had.
 

@@ -1,11 +1,7 @@
 ---
+title: TŘINÁCTÁ KAPITOLA Příběh se nám zamotává
 contentType: prose
 ---
-
-TŘINÁCTÁ KAPITOLA  
-Příběh se nám zamotává
-
-  
 
 Zloděj postál chvíli u zahradních vrátek a rozhlížel se po prázdné návsi. Najednou se otevřely dveře hostince, ozval se pronikavý pláč a vyběhlo děvčátko asi pětileté. Plakalo a utíkalo přes dvorek ke vrátkům. V otevřených dveřích hostince se objevil ohromný chlapík s rudou tváří a sumčím knírem pod nosem: hostinský Ferbus, oblečený tak, jak stával za svým výčepním stolem, bez kabátu, ve vestě a v košili s vykasanými rukávy.
 

@@ -1,11 +1,7 @@
 ---
+title: DVANÁCTÁ KAPITOLA Sirka slídí
 contentType: prose
 ---
-
-DVANÁCTÁ KAPITOLA  
-Sirka slídí
-
-  
 
 Vzdychá děd Zachariáš po Sirkovi a Sirka ťuká na dveře. Tu ho máme, kulíška… To je vítání, jako by se vrátil ztracený syn, jako by se trosečníkům hlady umírajícím objevila na obzoru záchranná loď. Jen nám ho, propánajána, neumačkejte, ať se dovíme, co a jak. Vždyť kdoví co nám nese a zdali se všechna ta radost a slavné vítání nepromění v zklamání a žal. Myslíte si jistě, že ze všeho nejdřív pověděl děd Zachariáš Sirkovi tu popletenou příhodu o Zrzkovi a nepravém zloději. I kdepak. Děd se musel zapřisáhnout, že o tom ani nehlesne, nechce-li mít ze Zrzka nadosmrti nepřítele. A toho se děd Zachariáš zalekl a slíbil, že bude mlčet. Tak už honem, jaképak dlouhé průtahy, řečnění a všelijaké opičky, tadyhle ať se Sirka posadí a povídá. Anebo lépe, protože by nám Sirka třeba všechno nepověděl, klučík je takový skromný, povím to raději za něho sám.
 

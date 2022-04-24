@@ -1,11 +1,7 @@
 ---
+title: OSMÁ KAPITOLA Křišťálová koule
 contentType: prose
 ---
-
-OSMÁ KAPITOLA  
-Křišťálová koule
-
-  
 
 Když je obřad u konce, děd Zachariáš zamíří k malované truhle. Kluci sledují pozorně každý pohyb. Stařec se hrabe chvíli v truhlici, někde hluboko, až na jejím dně, a pak se vrací ke stolu u okna. V obou dlaních nese něco, co kluci nemohou rozeznat. Trnou tak, jako by, až děd Zachariáš rozevře dlaně, měl nastat výbuch a rozmetat celý svět.
 

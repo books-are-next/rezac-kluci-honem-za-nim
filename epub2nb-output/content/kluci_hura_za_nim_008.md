@@ -1,11 +1,7 @@
 ---
+title: ČTVRTÁ KAPITOLA Kluci, hurá za ním!
 contentType: prose
 ---
-
-ČTVRTÁ KAPITOLA  
-Kluci, hurá za ním!
-
-  
 
 Kluci na chvíli zmlknou. Nejde jim do hlavy, že tak snadno zvítězili nad nebezpečným nepřítelem. Zrzek a Sirka nevědí dosud o tom, co postihlo jejich kamaráda, a proto se radují docela upřímně.
 

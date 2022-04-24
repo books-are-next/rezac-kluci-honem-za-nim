@@ -1,11 +1,7 @@
 ---
+title: DESÁTÁ KAPITOLA Už ho máme!
 contentType: prose
 ---
-
-DESÁTÁ KAPITOLA  
-Už ho máme!
-
-  
 
 Ať kluci spali nebo ne, ať dostali pětku nebo vynikli pozorností a pílí, nic nám po tom není, protože to nepatří do našeho příběhu. Pro nás za nás by Valnoha mohl být třeba mahárádžou z Rybyrakyparmyšíly-salamandrypulcežáby a Zrzek a Sirka jeho oblíbenými ministry, tady by jim to nebylo nic platné, protože si nadrobili pěknou patálii, a chceme vidět, jak si ji vyzobou.
 
