@@ -14,7 +14,7 @@ meta:
   publisherShort: MKP
   isbn: 978-80-7335-286-8; 978-80-87440-29-2
 readingOrder:
-  - kluci_hura_za_nim_002.html
+  - promo.html
   - kluci_hura_za_nim_005.html
   - kluci_hura_za_nim_006.html
   - kluci_hura_za_nim_007.html
