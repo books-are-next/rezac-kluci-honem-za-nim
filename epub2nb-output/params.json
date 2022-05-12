@@ -52,7 +52,7 @@
             "filename": "kluci_hura_za_nim_002.md",
             "xhtml": "kluci_hura_za_nim_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -583,6 +583,6 @@
       "user": "books-are-next",
       "repo": "rezac-kluci-honem-za-nim"
     },
-    "generatedAt": 1650836812404
+    "generatedAt": 1652351635813
   }
 }

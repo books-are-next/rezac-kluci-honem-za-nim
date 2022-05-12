@@ -1,22 +1,46 @@
 {
-  "author": "Václav Řezáč",
-  "contenttype": "prose",
-  "identifier": "rezac-kluci-hura-za-nim-74ecee5",
-  "isbn": "978-80-7335-286-8; 978-80-87440-29-2",
-  "languagecode": "cs",
-  "modified": "2021-11-04T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kluci, hurá za ním!",
-  "revision": "74ecee5",
+  "author": "Václav Řezáč",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "rezac-kluci-hura-za-nim-60e2450",
+  "revision": "60e2450",
+  "readingOrder": [
+    "promo.html",
+    "kluci_hura_za_nim_005.html",
+    "kluci_hura_za_nim_006.html",
+    "kluci_hura_za_nim_007.html",
+    "kluci_hura_za_nim_008.html",
+    "kluci_hura_za_nim_009.html",
+    "kluci_hura_za_nim_010.html",
+    "kluci_hura_za_nim_011.html",
+    "kluci_hura_za_nim_012.html",
+    "kluci_hura_za_nim_013.html",
+    "kluci_hura_za_nim_014.html",
+    "kluci_hura_za_nim_015.html",
+    "kluci_hura_za_nim_016.html",
+    "kluci_hura_za_nim_017.html",
+    "kluci_hura_za_nim_018.html",
+    "kluci_hura_za_nim_019.html",
+    "kluci_hura_za_nim_020.html",
+    "kluci_hura_za_nim_021.html",
+    "kluci_hura_za_nim_022.html",
+    "kluci_hura_za_nim_023.html",
+    "kluci_hura_za_nim_024.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Apr 24 2022 21:47:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650836878094
+    "date": "Thu May 12 2022 10:43:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352204230
   },
   "documents": [
     {
-      "title": "Kluci, hurá za ním!",
-      "file": "kluci_hura_za_nim_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +48,17 @@
       "order": 0,
       "prev": null,
       "next": "kluci_hura_za_nim_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují • Kluci, hurá za ním!",
+      "title": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují",
       "file": "kluci_hura_za_nim_005.html",
       "words": 1351,
       "chars": 7347,
       "ideas": 31,
       "role": "chapter",
       "order": 1,
-      "prev": "kluci_hura_za_nim_002.html",
+      "prev": "promo.html",
       "next": "kluci_hura_za_nim_006.html",
       "toc": [
         {
@@ -55,7 +71,7 @@
       ]
     },
     {
-      "title": "DRUHÁ KAPITOLA Lesní skrýše • Kluci, hurá za ním!",
+      "title": "DRUHÁ KAPITOLA Lesní skrýše",
       "file": "kluci_hura_za_nim_006.html",
       "words": 1547,
       "chars": 8723,
@@ -75,7 +91,7 @@
       ]
     },
     {
-      "title": "TŘETÍ KAPITOLA Kdo je tam? • Kluci, hurá za ním!",
+      "title": "TŘETÍ KAPITOLA Kdo je tam?",
       "file": "kluci_hura_za_nim_007.html",
       "words": 2073,
       "chars": 11613,
@@ -95,7 +111,7 @@
       ]
     },
     {
-      "title": "ČTVRTÁ KAPITOLA Kluci, hurá za ním! • Kluci, hurá za ním!",
+      "title": "ČTVRTÁ KAPITOLA Kluci, hurá za ním!",
       "file": "kluci_hura_za_nim_008.html",
       "words": 1938,
       "chars": 10643,
@@ -115,7 +131,7 @@
       ]
     },
     {
-      "title": "PÁTÁ KAPITOLA Strážce pokladů • Kluci, hurá za ním!",
+      "title": "PÁTÁ KAPITOLA Strážce pokladů",
       "file": "kluci_hura_za_nim_009.html",
       "words": 1086,
       "chars": 6257,
@@ -135,7 +151,7 @@
       ]
     },
     {
-      "title": "ŠESTÁ KAPITOLA Kdo byl děd Zachariáš • Kluci, hurá za ním!",
+      "title": "ŠESTÁ KAPITOLA Kdo byl děd Zachariáš",
       "file": "kluci_hura_za_nim_010.html",
       "words": 819,
       "chars": 4981,
@@ -155,7 +171,7 @@
       ]
     },
     {
-      "title": "SEDMÁ KAPITOLA Kdo nám poradí? • Kluci, hurá za ním!",
+      "title": "SEDMÁ KAPITOLA Kdo nám poradí?",
       "file": "kluci_hura_za_nim_011.html",
       "words": 1267,
       "chars": 7104,
@@ -175,7 +191,7 @@
       ]
     },
     {
-      "title": "OSMÁ KAPITOLA Křišťálová koule • Kluci, hurá za ním!",
+      "title": "OSMÁ KAPITOLA Křišťálová koule",
       "file": "kluci_hura_za_nim_012.html",
       "words": 1796,
       "chars": 9967,
@@ -195,7 +211,7 @@
       ]
     },
     {
-      "title": "DEVÁTÁ KAPITOLA Co viděl Sirka • Kluci, hurá za ním!",
+      "title": "DEVÁTÁ KAPITOLA Co viděl Sirka",
       "file": "kluci_hura_za_nim_013.html",
       "words": 1123,
       "chars": 6241,
@@ -215,7 +231,7 @@
       ]
     },
     {
-      "title": "DESÁTÁ KAPITOLA Už ho máme! • Kluci, hurá za ním!",
+      "title": "DESÁTÁ KAPITOLA Už ho máme!",
       "file": "kluci_hura_za_nim_014.html",
       "words": 2361,
       "chars": 13078,
@@ -235,7 +251,7 @@
       ]
     },
     {
-      "title": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili? • Kluci, hurá za ním!",
+      "title": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili?",
       "file": "kluci_hura_za_nim_015.html",
       "words": 1817,
       "chars": 9731,
@@ -255,7 +271,7 @@
       ]
     },
     {
-      "title": "DVANÁCTÁ KAPITOLA Sirka slídí • Kluci, hurá za ním!",
+      "title": "DVANÁCTÁ KAPITOLA Sirka slídí",
       "file": "kluci_hura_za_nim_016.html",
       "words": 1288,
       "chars": 7291,
@@ -275,7 +291,7 @@
       ]
     },
     {
-      "title": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává • Kluci, hurá za ním!",
+      "title": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává",
       "file": "kluci_hura_za_nim_017.html",
       "words": 1694,
       "chars": 9614,
@@ -295,7 +311,7 @@
       ]
     },
     {
-      "title": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?  • Kluci, hurá za ním!",
+      "title": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?",
       "file": "kluci_hura_za_nim_018.html",
       "words": 1790,
       "chars": 9865,
@@ -315,7 +331,7 @@
       ]
     },
     {
-      "title": "PATNÁCTÁ KAPITOLA Už je tam! • Kluci, hurá za ním!",
+      "title": "PATNÁCTÁ KAPITOLA Už je tam!",
       "file": "kluci_hura_za_nim_019.html",
       "words": 1062,
       "chars": 6108,
@@ -335,7 +351,7 @@
       ]
     },
     {
-      "title": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho! • Kluci, hurá za ním!",
+      "title": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!",
       "file": "kluci_hura_za_nim_020.html",
       "words": 1936,
       "chars": 10874,
@@ -355,7 +371,7 @@
       ]
     },
     {
-      "title": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá • Kluci, hurá za ním!",
+      "title": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá",
       "file": "kluci_hura_za_nim_021.html",
       "words": 1746,
       "chars": 9875,
@@ -375,7 +391,7 @@
       ]
     },
     {
-      "title": "OSMNÁCTÁ KAPITOLA Pomoc! Hoří! • Kluci, hurá za ním!",
+      "title": "OSMNÁCTÁ KAPITOLA Pomoc! Hoří!",
       "file": "kluci_hura_za_nim_022.html",
       "words": 1160,
       "chars": 6504,
@@ -395,7 +411,7 @@
       ]
     },
     {
-      "title": "DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství • Kluci, hurá za ním!",
+      "title": "DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství",
       "file": "kluci_hura_za_nim_023.html",
       "words": 1787,
       "chars": 10028,
@@ -415,7 +431,7 @@
       ]
     },
     {
-      "title": "DVACÁTÁ KAPITOLA Třikrát: Sláva! • Kluci, hurá za ním!",
+      "title": "DVACÁTÁ KAPITOLA Třikrát: Sláva!",
       "file": "kluci_hura_za_nim_024.html",
       "words": 1185,
       "chars": 6966,
@@ -435,11 +451,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kluci, hurá za ním!",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 161,
-      "chars": 1024,
-      "ideas": 23,
+      "words": 141,
+      "chars": 883,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "kluci_hura_za_nim_024.html",
@@ -457,9 +473,9 @@
   ],
   "totals": {
     "all": {
-      "words": 30994,
-      "chars": 173868,
-      "ideas": 740
+      "words": 30974,
+      "chars": 173727,
+      "ideas": 735
     },
     "chapters": {
       "words": 30826,
