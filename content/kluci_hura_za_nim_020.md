@@ -3,6 +3,8 @@ title: ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!
 contentType: prose
 ---
 
+<section>
+
 Řekli jsme prve bác. A to bác znamená mnoho věcí, nebo aspoň dvě. Bác udělal především zloděj, který, jakmile se pustil z okna dovnitř, po něčem sklouzl a bacil sebou na zem. To druhé bác udělala okenice, která se za ním s třeskem zavřela.
 
 Zloděj leží na zemi napolo omráčen. Když se vzpamatuje, padne na něho hrozný strach. Co se stalo? A co se ještě bude dít? Zloděj to neví, zloděj to neuhádne. A my, než budeme vyprávět dále, si můžeme povědět, co to bylo.
@@ -96,3 +98,5 @@ V lebce to zaharaší a papoušek odpoví žvatlavou španělštinou:
 – To víš, že ano, souhlasí s ním Sirka. – Jsi vůbec nejhodnější, nejkrásnější a nejchytřejší pták, jaký se kdy narodil, a provedl jsi svou úlohu znamenitě. Teď polez ven, dostaneš cukr, moc cukru, až tě bude břicho bolet.
 
 Papoušek, jak slyší o cukru, vyleze z lebky, v níž se mu asi velmi líbilo, a šplhá po nastaveném oštěpu na Sirkovo rameno. Tak, a tady máte to strašidlo, které tak vyděsilo zloděje, že by byl málem duši vypustil. Děd Zachariáš usadil papouška do lebky, a Koko, jakmile uviděl v pokoji samotného cizího člověka, křičel, co vykřikoval na zloděje. Naučil ho tomu španělský koloniální důstojník, kterému dříve Koko patříval a který se tak zajišťoval, aby ho domorodí sluhové neokrádali. Ještě by vás asi zajímalo, jak to bylo s tím oštěpem a s těmi opicemi. Ale to ví sám čert, já ne. Napadlo mě, že by to mohl být jeden z těch kousků, jimž se naučil děd Zachariáš od starého Inda, který mu dal křišťálovou kouli. Děd Zachariáš však o ničem takovém nechce ani slyšet a zapírá i to, že jsme ho viděli tahat oštěp ze dveří. Říká, že všechnu tu hrůzu zažil zloděj jen ve své obrazotvornosti, podrážděné strachem a špatným svědomím. Ať je to jakkoliv, hlavní je, že jsme zloděje chytili a pořádně vytrestali.
+
+</section>

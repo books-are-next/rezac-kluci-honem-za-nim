@@ -3,6 +3,8 @@ title: PATNÁCTÁ KAPITOLA Už je tam!
 contentType: prose
 ---
 
+<section>
+
 Řekli jsme si, jestliže to všechno dopadne dobře a jestliže se pan Ferbus dal oklamat Valnohou a Zrzkem, bude tu zítra po poledni jako na koni. A kolik že je nyní? Navlas půl jedné. A kdože to přechází a přešlapuje na silnici před zámečkem? Pan Ferbus a jeho číšník. Hostinský přišel taky, aby snad číšníka nenapadlo vyhnout se té škaredé práci a vymluvit se, že chlapci nemluvili pravdu a že děd Zachariáš se vůbec nehnul ze zámečku. A také proto s ním přišel, aby ho střežil při práci, dělal mu zeď, jak říkají příslušníci zlodějského cechu.
 
 Děd Zachariáš a chlapci pozorují tu podařenou dvojici u okna, jež vede na silnici. Zloděj si nese opět svůj kufříček jako na začátku tohoto příběhu. Ale jen se podívejte, Zrzku a Valnoho, ten kufr je větší, než byl páně Dobešův, a také není polepen nálepkami. Podívejte se, jak ti dva na silnici jsou netrpěliví, jak napínají krky směrem k muzeu a zároveň se snaží vypadat náramně nenápadně, jako dva páni, kteří se náhodou potkali a teď spolu rozprávějí o svých rodinách, o dětičkách a obchodních starostech. Právě přešel kolem nich strážník, a oni se tváří jakoby nic, jako dva nejpočestnější občané. Strážník jde dál, ani si jich nevšimne. Kdyby tak věděl, co jsou zač, ten by je popadl za límec. Jen ať je raději nechá na pokoji, pokazil by nám příběh. Však my si to s nimi spravíme sami. Musíme si teď pospíšit, protože chlapci jsou už jako na trní a mohlo by je napadnout nějaké podezření.
@@ -38,3 +40,5 @@ Dojde konečně na druhou stranu zámečku, připlíží se tam tiše jako lasic
 Zloděj se ještě naposled rozhlédne kolem sebe, po oknech zámečku a po křovinách a stromech zahrady. Koldokola je odpolední ticho a klid, ani lístek nezašelestí, větvička nezapraská, a okna, jak se zdá, jsou slepá a hluchá. Zloděj začne lézt. Víno šelestí, laťky praskají, kufříček mu překáží. To všechno zloděje děsí; leze pomalu, ohlíží se a ostražitě naslouchá. Konečně dosáhne okna. Zachytí se jednou rukou jeho spodního okraje a opět naslouchá. Ticho. Povystrčí hlavu a nahlédne dovnitř. Je to pokoj zaplněný vykopávkami z cizích krajů, kostrami různých zvířat a jejich lebkami, rozvěšenými po zdech, zbraněmi a nářadím divokých kmenů. Jedna polovina pokoje je v přítmí, protože druhé okno je uzavřeno okenicí. Vypadá to trochu strašidelně a zloději se příliš dovnitř nechce. Ale není-li tam živého člověka, všechny ty mrtvé předměty, třeba vypadaly sebepříšerněji, mu nemohou ublížit. Dodá si odvahy a položí svůj kufříček na okno. Ještě chvilinku zaváhá, ale všude je klid. Spustí tedy kufřík do pokoje a šups za ním.
 
 Bác! A zlodějovo neštěstí, trest a pokání začíná.
+
+</section>

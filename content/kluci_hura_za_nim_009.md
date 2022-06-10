@@ -3,6 +3,8 @@ title: PÁTÁ KAPITOLA Strážce pokladů
 contentType: prose
 ---
 
+<section>
+
 Pořád se tu vykřikuje: děd Zachariáš. Děd Zachariáš sem, děd Zachariáš tam. Honem k dědu Zachariášovi, děd Zachariáš pomůže a to bude něco pro děda Zachariáše. Kdo je to ten děd Zachariáš, ptáme se, že se tu s ním tropí takový povyk, že se mu div neprovolává sláva? Nejsme tu proto, aby nás někdo vodil za nos. Chceme vědět, kdo je děd Zachariáš! Tak abyste věděli: děd Zachariáš je strážce pokladů.
 
 Bác! To to bouchlo. Strážce pokladů! Dnes, ve dvacátém století, a tady, v srdci Evropy, mezi automobily, telegrafy, telefony, rádiem, aeroplány a já nevím čím ještě. Jděte, jděte. Vy si o nás myslíte, že jsme příliš malé děti. A přece je to pravda pravdoucí. Nechtějte na mně, abych se dušoval, raději vám to vysvětlím.
@@ -34,3 +36,5 @@ Pes skočil po Valnohovi s chraplavým zaštěkáním, ale stařec ho strhl zp�
 – Lehni, Bingo, fuj! Tak vida, jeden tu zůstal. Stalo se mi, to víš, že se mi stalo, darebo. A kvůli vám. Mám asi zlomenou nohu. Pojď a pomoz mi rozšněrovat botu. Pojď a neboj se. Nic se ti nestane.
 
 Takhle se tedy seznámili Valnoha, Zrzek a Sirka s dědem Zachariášem.
+
+</section>

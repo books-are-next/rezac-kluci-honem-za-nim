@@ -3,6 +3,8 @@ title: 'DVACÁTÁ KAPITOLA Třikrát: Sláva!'
 contentType: prose
 ---
 
+<section>
+
 V tu chvíli asi, kdy kopaninský stařeček začal vyzvánět na poplach a chlapci vlekli stříkačku k požářišti, děd Zachariáš, znepokojen jejich dlouhou nepřítomností, rozhodl se k činu. Jaképak fraky a dlouhé tahanice s takovým ničemou, jako je pan Ferbus, usoudil děd. Půjdeme k němu, vezmeme ho za ručičku a dovedeme ho spolu na Kopaninu. A tam pěkně na místě s ním zúčtujeme. Mělo mne to napadnout hned a nemusel jsem ty hochy posílat zbůhdarma napřed.
 
 – A bude-li odporovat, pohrozíme mu strážníkem, pokračuje děd Zachariáš. – Však on zkrotne. Co tomu říkáte, Nyklíčku?
@@ -36,3 +38,5 @@ Teď se má Liduška dobře. Vždycky bývala sama a nyní má společnost. Zrz
 A co kluci? ptáte se. Ti jsou náramně slavní po celé Bakalářce, Kopanině, po okolí, ba i po celé zemi. Zpráva o jejich hrdinství při požáru kopaninské hospody prošla všemi novinami. Jak by ne! Neboť Valnoha, Zrzek a Sirka byli vyznamenáni ministerstvem za záchranu lidského života. To byla veliká sláva na gymnáziu, kam oni chodí. Všechny třídy byly svolány do tělocvičny, museli přijít i milostpáni-oktaváni a poslouchat vzletnou řeč, kterou měl pán z ministerstva k Valnohovi, Zrzkovi a Sirkovi, když jim odevzdával vyznamenání za zachránění života pětileté Lidušky Nyklíčkové a za hrdinské chování při hašení požáru. Pak jim všichni provolali hromové Sláva!, div nepopraskala okna tělocvičny. A Zrzkova maminka jim v zahradní besídce uspořádala hostinu, k níž pozvala také Valnohovy a Sirkovy rodiče, děda Zachariáše a pana Nyklíčka s Liduškou. A zatímco dospělí slzeli dojetím nad zdárností svých synů, Valnoha, Zrzek, Sirka i Liduška se šťastně přecpali všech dobrot, které jim připravila Zrzkova maminka.
 
 Tak vidíte, že se vyplácí být čiperný a nebojácný. Pravda, podnikli to všechno, aby zachránili Valnohovu dvoulampovku, a tu zrovna nedostali, protože shořela se vším všudy ve Ferbusově hospodě. Ale co je ta nejlepší dvoulampovka na světě proti záchraně lidského života! Ostatně Valnoha si udělal novou a lepší. Udělal vlastně dvě a jednu dal dědu Zachariášovi a panu Nyklíčkovi, aby měli nějakou zábavu, když jim dojde řeč.
+
+</section>

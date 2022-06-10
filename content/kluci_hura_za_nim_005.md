@@ -3,6 +3,8 @@ title: PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují
 contentType: prose
 ---
 
+<section>
+
 Viděli jste lézt Zrzka na strom? Rád bych věděl, zdali byste to po něm dokázali. Zrzkovi bylo jedno, leze-li na břízu, na smrk nebo na borovici, nebál se ani trnů akátů a taková hrušeň, jabloň nebo švestka mu byly jenom k smíchu. Zrzek lezl na vše, nač se dalo, a ze všech tvorů záviděl nejvíce veverkám a ze všech lidí nejvíc elektrotechnikům, kteří v jejich čtvrti opravovali vedení. Měli na botách zubaté srpy a lezli po dřevěných sloupech tak lehce, jako jiní chodí po zemi. To víte, Zrzek také někdy spadl a byl jedna boule. Ale ukažte mi kluka, který neměl nikdy boule na čele, odřená kolena a roztržené kalhoty. Kdybyste se zeptali jeho kamarádů, kteří tu sedí na příkopě a vážně se o něčem radí, kde je Zrzek, řekli by: „Teď tady byl,“ a hned by zvedli hlavy a podívali by se nad sebe na divokou třešeň. A vzápětí by zašumělo listí, zapraskaly větve a ozval by se Zrzkův pronikavý hlas:
 
 – Kluci, já vidím až k řece. A teď si to sem žene nějaký auťák. To bude jistě tatra.
@@ -62,3 +64,5 @@ Zrzek se dívá do země jako zarytec, hrabe podpatkem hlínu, trhá kolem sebe 
 Ale Sirka také přidá rychlosti. Stačí jim krásně. Jak by ne, když na kole sedí takoví dva řimbabové. Ostatně tamhle už je les a cesta se mění v pěšinu. Tam budou beztak muset z kola dolů. Dorazili tam zároveň.
 
 Kam jdou? Ke skrýši. Sešli se pod divokou třešní, na které seděl Zrzek. A teď jdou ke skrýši.
+
+</section>

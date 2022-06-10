@@ -3,6 +3,8 @@ title: 'ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni? '
 contentType: prose
 ---
 
+<section>
+
 Slavná obec kopaninská leží v klidu a v odpoledním slunci, domům je takové horko, že by se nejraději rozutekly a skryly se někde ve stínu nebo se ponořily do řeky. Před hostincem pana Ferbuse, pod starým kaštanem, si hraje ve špinavém písku malá holčička a uvnitř hostince její tatínek, ten číšník nebo zloděj nebo kdo to vlastně je, myje sklenice a pan Ferbus, široce rozvalen na židli, pokuřuje z dlouhé dýmky se sádrovou hlavičkou a chvílemi dříme. A nikdo, ani Kopanina, ani pan Ferbus, ani zloděj číšník netuší, že se k nim blíží zrada.
 
 Jakápak zrada? Vždyť je to Valnoha, Zrzek a Sirka. Však uvidíme.
@@ -120,3 +122,5 @@ Tady jdou a smějí se také na celé kolo.
 Den je dosti dlouhý, je druhá polovina června, ten čas, kdy prázdniny už přestaly ťukat na dveře a zrovna do nich kopou samou netrpělivostí. A tak chlapci, když se odvolali na děda Zachariáše, směli ještě ven a pobyli u něho téměř do deseti hodin večer. Dokončili důkladně všechny přípravy k přijetí zítřejší zlodějské návštěvy. Zejména připevnili důmyslnou konstrukci systému Valnoha na okenici toho okna, jež mělo zůstat otevřeno, a namazali zámek u druhých vrátek do zahrady, kterými kdysi chodívalo služebnictvo a která hrozně zrezivěla, protože se jich neužívalo už dobrých třicet let. Vidím vám na nose, jak byste rádi věděli, nač to všechno, ale dočkejte času jako ta husa, která ať kejhá jak chce, řekněme v dubnu nebo v květnu, musí čekat na klas až do července nebo srpna. A vy budete čekat jenom do zítřka.
 
 Představte si ještě, jaké asi ti chlapci měli sny, jak honili pana Ferbuse, anebo spíše jak pan Ferbus honil je, jak křičeli ze spaní, kopali do svých pokrývek a probouzeli se zpocení. Ale to patří k věci. Pan Ferbus nespal také celou noc, protože se hádal po zavření hostince se svým číšníkem, který se chudák bránil a zaklínal, že už nepůjde krást. Bránil se, bránil, ale neubránil, protože pan Ferbus měl nad ním hroznou moc a on se bál jeho výhrůžek: vězení a toho, co by se pak stalo s jeho dceruškou.
+
+</section>

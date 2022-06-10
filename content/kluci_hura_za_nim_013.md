@@ -3,6 +3,8 @@ title: DEVÁTÁ KAPITOLA Co viděl Sirka
 contentType: prose
 ---
 
+<section>
+
 – Tak, děde Zachariáši. Už jsem si dost odpočinul a zase mohu.
 
 – Zkus to tedy znovu. Ale mysli na to, co chceš vidět.
@@ -34,3 +36,5 @@ Tak tedy dali všichni hlavy dohromady a radili se. A z té porady vyšel ví
 – Tak, a teď koukejte, ať jste doma, abyste něco neslízli, popohání je děd. – Pořádně se na to vyspěte a zítra, až se vrátí Sirka, uvidíme, co bude dál.
 
 Ono se to dědovi řekne, vyspěte se, když je plná hlava takových událostí. Nevím, jaké to bylo s tím spánkem a jaké, řekněme, takhle s pozorností ve škole. Kdoví, zdali některý z nich nebo dva nebo všichni tři nedostali pro nepozornost kouli, pumu, eso, a jak se dnes všelijak jmenuje starodávná pětka. Ale do toho nám nic není, a přihodilo-li se to některému z nich, však on to zase napraví. Nás zajímá více, jak provede svůj úkol Sirka a co nám přinese nového.
+
+</section>

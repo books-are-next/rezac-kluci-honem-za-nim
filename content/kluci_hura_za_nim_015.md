@@ -3,6 +3,8 @@ title: JEDENÁCTÁ KAPITOLA Proč jste ho pustili?
 contentType: prose
 ---
 
+<section>
+
 Na silnici právě proti vchodu do zámečku stojí Zrzkův tatínek a mračí se. Jak by se nemračil! Zrzkova maminka mu telefonuje: Chlapec na tebe čeká doma a otevře ti. A tatínek se půl hodiny marně dobývá domů. Chlapče, tys to vypral. Teď bych nechtěl být na tvém místě.
 
 – Kde lítáš? řekne tatínek na uvítanou.
@@ -152,3 +154,5 @@ Kluci sedí jako zmoklé slepice. Pane, tohle je rozřešení záhady, to je zkl
 – No, děde Zachariáši, brání se kluci. – Vy nás urážíte.
 
 – Uvidíme, uvidíme, povídá stařec, – až s jakou se vrátí Sirka.
+
+</section>

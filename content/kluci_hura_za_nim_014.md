@@ -3,6 +3,8 @@ title: DESÁTÁ KAPITOLA Už ho máme!
 contentType: prose
 ---
 
+<section>
+
 Ať kluci spali nebo ne, ať dostali pětku nebo vynikli pozorností a pílí, nic nám po tom není, protože to nepatří do našeho příběhu. Pro nás za nás by Valnoha mohl být třeba mahárádžou z Rybyrakyparmyšíly-salamandrypulcežáby a Zrzek a Sirka jeho oblíbenými ministry, tady by jim to nebylo nic platné, protože si nadrobili pěknou patálii, a chceme vidět, jak si ji vyzobou.
 
 Bylo ujednáno, že Sirka půjde sám a Valnoha se Zrzkem že ho doprovodí ke Kopanině, jednak aby mu cesta veseleji uběhla, jednak aby mu byli nablízku, kdyby mu bylo třeba jejich pomoci. Tak to tedy bylo ujednáno. Nesměli by však být na světě profesoři, tatínkové a jiné takové překážky, jež příroda staví do cesty spravedlivému naplnění klukovských plánů. Proti Valnohovi se spikli profesor matematiky a tatínek. Profesor matematiky napařil třídě cvičení na dvě stránky a, pane, mastné příklady, na ty aby byl nejméně Tycho de Brahe nebo Archimédes. Valnoha si řekl, že cvičení napíše až po večeři nebo je od někoho obškrábne před vyučováním. Ale Valnohův tatínek měl zvědavou náladu, a když se Valnoha chtěl po obědě vytratit z domova, byl zapleten do křížového výslechu, který skončil moudrou, ale nepříjemnou průpovídkou:
@@ -94,3 +96,5 @@ Když dojdou k východu, děd Zachariáš dá znamení. Poslední z pánů a 
 – Tak kudy? ptá se pán.
 
 – Nalevo. Je to třetí okno od rohu, odpoví Zrzek a pán se rozběhne. A Zrzek asi běží za ním. To si myslíte vy a tak by tomu také mělo být. Mělo, ale není. Tak co se vlastně děje? Podívejte se sami. Zrzek nám zkameněl. Stojí tu jako sloup a dívá se s otevřenými ústy na silnici. Pak postaví svůj oštěp opatrně za zámecká vrata a šourá se zkroušeně ven.
+
+</section>

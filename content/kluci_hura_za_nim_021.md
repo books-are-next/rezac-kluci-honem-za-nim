@@ -3,6 +3,8 @@ title: SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá
 contentType: prose
 ---
 
+<section>
+
 Zloděj sedí v pokoji děda Zachariáše jako před soudem a zodpovídá se.
 
 Ach, raději kdybychom ho nemuseli poslouchat, kdyby nám tu neseděl na očích tak zkroušený a ubohý. Je to smutná povídka, jak tenhle ubožák, Nyklíček se jmenuje, přišel k svému nepočestnému řemeslu. Jako mladík po vyučení měl to štěstí, že se dostal za číšníka na zámořské lodi a vydělával pěkné peníze, až ho zachvátil stesk po domově. Vrátil se se svými úsporami do vlasti, dostal dobré místo, oženil se, narodila se mu hezká dceruška a zdálo se, že bude pěkně živ. Po dvou letech se náhle štěstí obrátilo. Napřed se rozstonal on a byl nemocen celý rok. Ztratil své dobré místo a jiné pak nemohl najít, protože byl sláb a nemocí poničený. Měl něco nastřádaných peněz a doufal, až se zotaví, že opět místo nalezne. Tu se však rozstonala jeho žena, dlouho ležela a zemřela. Peníze se jim rozběhly již před její smrtí. Nyklíček prodával a zastavoval, dokud co měl. Pak přišla bída. Zdálo se, že zahynou všichni hladem. A tehdy se ho ujal pan Ferbus. Dal mu pokojík u sebe v hospodě a Nyklíček by byl pro něho do ohně skočil, neboť tehdy ještě netušil, co s ním hostinský zamýšlí. Měl mu dělat číšníka, ale číšník na takové hospodě, která měla hosty jen v neděli, a to jen nejvíc v létě, se nevyplácí. Mnoho mu tedy pan Ferbus neplatil. A Nyklíček potřeboval mnoho peněz na lékaře i na léky a na stravu pro své děvčátko. Hostinský ho začal navádět a přemlouvat, až Nyklíček, který by býval dal život za svou ženu a stále ještě doufal, že lékařům se podaří ji zachránit, poslechl a stal se zlodějem. Kradl a nosil nakradené panu Ferbusovi, který věci prodával a Nyklíčkovi z toho dával, co za dobré uznal. Bylo toho pramálo a po smrti Nyklíčkovy ženy nedával mu, krom bytu a mizerného jídla, téměř nic. Krást ho však nutil dál a vyhrožoval mu, neposlechne-li, že ho vydá policii. Kolikrát chtěl Nyklíček utéci, aby se zbavil pana Ferbuse a jeho moci nad sebou, nevěděl však, kam by se ve světě poděl, a bál se o svou dcerušku. Chodil, běhal, sháněl místo, jakékoliv poctivé zaměstnání po městě a jeho dalekém okolí. Marně. Statní a zdraví byli propouštěni, jak měl dostat místo on, který vypadal, jako by smrt číhala na něho za každým rohem.
@@ -66,3 +68,5 @@ Nyklíček je vysouká z kapsy, vyloží chlapcům, který klíč je od kterýc
 – Nic takového, Zrzku, napomíná ho děd. – Jen žádné hlouposti a lehkomyslnosti. Udělejte hezky rychle, co máte udělat, a pospěšte si zpět. On už ten chlapík na silnici je beztoho jak na trní, a kdyby musel příliš dlouho čekat, mohla by ho přejít trpělivost, vrátil by se předčasně domů a přistihl by vás tam. To by pak byla pěkná mela. Pospěšte si, ať jste tu na obrátku zpět.
 
 A chlapci jdou. Jen aby se jim to povedlo. Držme jim palec!
+
+</section>

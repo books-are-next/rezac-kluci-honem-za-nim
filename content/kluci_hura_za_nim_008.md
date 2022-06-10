@@ -3,6 +3,8 @@ title: ČTVRTÁ KAPITOLA Kluci, hurá za ním!
 contentType: prose
 ---
 
+<section>
+
 Kluci na chvíli zmlknou. Nejde jim do hlavy, že tak snadno zvítězili nad nebezpečným nepřítelem. Zrzek a Sirka nevědí dosud o tom, co postihlo jejich kamaráda, a proto se radují docela upřímně.
 
 – Ten jel, jako když namaže, začne vykřikovat Zrzek. – Vsaďte se, že se sem nikdy nevrátí. Já myslím, že to byl opravdu zloděj.
@@ -124,3 +126,5 @@ Popadnou kolo a už si to sypou k dědu Zachariášovi.
 A Zrzek cestou vykládá:
 
 – Pane, kluci, já vidím, jak ho máme, pobertíka jednoho. Teď nám neuteče.
+
+</section>

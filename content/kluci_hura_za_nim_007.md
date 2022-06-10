@@ -3,6 +3,8 @@ title: TŘETÍ KAPITOLA Kdo je tam?
 contentType: prose
 ---
 
+<section>
+
 Nad úvalem se kluci zastavili a rozhlédli se naposled, zdali je nikdo ne­sleduje. Ve zmatku nad příhodou s kolem zapomněli na svou obvyklou opatrnost. Naslouchají nyní ostražitě, neozývá-li se kolem nic podezřelého. Něco zašelestilo v listí. Ohlédnou se všichni tři tím směrem, ale je to jen kos, který si dobývá svou potravu. Někde tu ještě vyzpěvuje pěnkava, sýkorka cvrliká a v dálce houká automobil. Chlapci jsou uklid­něni těmi známými zvuky. Chystají se zvednout kolo, spustit je dolů a skočit za ním. Tu se Sirka znenadání přikrčí a sykne tiše jako had.
 
 – Pst!
@@ -84,3 +86,5 @@ A Zrzek ječí:
 – Jen za ním, pane strážníku, jen za ním! My vám ho nadeženeme.
 
 Už jim zmizel nahoře za křovím, slyší ho dupat po pěšině. Pane, ti mu nahnali, ten měl strachu, div duši nepustil. Dobrá, kluci, tak jste to vyhráli: zahnali jste zloděje a opanovali bojiště. Ale kde je vaše rádio? Povídám, kde je Valnohova slavná dvoulampovka s tím krásným tlampačem?
+
+</section>
