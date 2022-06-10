@@ -3,6 +3,8 @@ title: DEVATENÁCTÁ KAPITOLA Zrzkovo hrdinství
 contentType: prose
 ---
 
+<section>
+
 – Kdyby tu byl alespoň nějaký žebřík, abychom mohli vylézt nahoru, vzdychne Valnoha, a zaplaťpámbu, že to řekl.
 
 – Vylézt nahoru? chytne se jeho slov Zrzek. – Co kdybych to zkusil po té okapové rouře?
@@ -80,3 +82,5 @@ A hned, aby za nimi nezůstali pozadu, se ženou ke stříkačce, bez hádky a�
 Když se dostanou na místo dospělí, a především řádní dobrovolní hasiči, mají co dělat, aby kluky vypudili od stříkačky. Ale Valnoha s kamarády ani kopaninští kluci se nedají jen tak vystrnadit. Přenechají stříkačku dospělým a hned si najdou jinou práci. Valnoha je spořádá do tří čet, první je v čele on, druhé Sirka a třetí Zrzek. Na jeho rozkaz snesou kluci ze svých domovů kdejakou putnu, štoudev, konev, hrnec nebo dřez. Pak od míst, kde plameny nejvíc hrozí přeskočit na sousední stavení, se hoši rozvinou v řetězy k nejbližším studním. Jeden čepuje vodu, druzí z ruky do ruky si podávají naplněné nádoby až k těm dvěma, kteří stojí nejblíže ohrožených míst a hasí.
 
 Dospělí vidí, jak se chlapci činí, jak nedbají nebezpečí a posmívají se poletujícím jiskrám, jak jsou všude, kde oheň se chce zmocnit nové kořisti, a následují jejich příkladu. Tak se ještě podaří zachránit jedinou Ferbusovu kravku (koně naštěstí byli na louce) z chléva, na jehož střeše už červený kohout mává svými ohnivými křídly. A pak plameny zachvátí vše, kdejaký chlívek, dřevník a kůlnu, ano i tu kůlnu, v níž podle Nyklíčkova tvrzení měl být ukryt sud s nakradenými věcmi a Valnohovou dvoulampovkou. Hoří kdeco, i větve stromů na dvorku syčí v tom hrozném žáru. Tomuto stavení se vším, co k němu náleželo, je souzeno, aby lehlo popelem do základů, aby se proměnilo v kouřící a páchnoucí hromadu zčernalých trosek.
+
+</section>

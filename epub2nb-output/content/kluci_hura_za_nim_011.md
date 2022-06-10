@@ -3,6 +3,8 @@ title: SEDMÁ KAPITOLA Kdo nám poradí?
 contentType: prose
 ---
 
+<section>
+
 Já vím, že si říkáte: to je řečí, to je povídání o dědu Zachariášovi. Copak je nám vlastně do něho? To jste se tu, pane, o něm rozpovídal a na zloděje jste zapomněl. Kdoví kam ten si zatím zašantročil svou kořist a kde se skrývá v bezpečí. Možná že si vyhrává na Valnohovu dvoulampovku a má z nás ze všech pořádnou švandu. Dobrá, miláčkové, povídám vám, tak si běžte a chytejte si ho sami. Což jste neviděli, jak nám upláchl a že jsme se octli v koncích? Děd Zachariáš je naše poslední naděje.
 
 Děd Zachariáš sedí na malé plošince nad schody, kterými se vchází do zámečku. Sedí si pěkně pohodlně v proutěném křesle, které pro něho na otci vyloudil Sirka v dobách, kdy ošetřovali dědovu zraněnou nohu. U křesla leží Bingo a spí. Kluci se sem vlečou po silnici, není na ně veselá podívaná, holečku, těm není do skoku. Děd Zachariáš je vidí a povídá Bingovi:
@@ -90,3 +92,5 @@ Hoši se dnes o něho příliš nezajímají. Opouštějí ho rychle a honem z
 – Tak mi každý dejte své čestné slovo, že nic z toho, co tu nyní uvidíte, nikdy nikomu nepovíte.
 
 A kluci jeden po druhém přistupují k dědu Zachariášovi, podávají mu pravici a pronášejí svůj slib hlubokými hrobovými hlasy. Děd Zachariáš na každého z nich upře své černé, pronikavé oči a jimi jako by jim až do srdcí nahlížel a tam se přesvědčoval, jsou-li jejich úmysly tak poctivé jako jejich slova. Chlapci se zachvívají a je jim úzko. Tady se bude dít něco neobyčejného, tajemného a velikého. Proč by se jinak děd Zachariáš choval tak slavnostně, proč by si je zavazoval slibem věčného mlčení?
+
+</section>

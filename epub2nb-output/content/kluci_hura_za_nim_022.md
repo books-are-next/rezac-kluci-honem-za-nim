@@ -3,6 +3,8 @@ title: OSMNÁCTÁ KAPITOLA Pomoc! Hoří!
 contentType: prose
 ---
 
+<section>
+
 Sirka, který to zná na Kopanině nejlépe, vede chlapce pěšinami, aby se dostali k Ferbusově hospodě po humnech, nikým ze vsi neviděni. Ale kdo by je mohl vidět v tuto hodinu? Vesnice je liduprázdná, není v ní takřka človíčka, snad jen někde ve stínu pod jabloní spí nějaký starý výměnkář, který už pracovat nemůže, nebo si někde na zahradě hrají malé děti. Všichni ostatní, každý, kdo může chodit a rukama hýbat, jsou v lukách u řeky, sečou, suší, obracejí a kopí seno. Vesnice je ponechána sama sobě, pánubohu, Vořechům, Barykům, Cikánům a Brokům, kteří se povalují na slunci před svými boudami, plazí jazyky horkem a žízní, leží jako mrtví nebo se drbou a probírají v kožiše a klepají vztekle čelistmi po drzých mouchách. Takový požehnaný den to je, horko, jen se slévá, obloha bez mráčku, všude plno slunce, mouchy létají a bzučí jak opilé, ale jinak ani lísteček se nepohne. Kdopak by myslil dnes na zloděje a skrýši lupičů? Nebylo by lépe seběhnout k řece a pořádně se vyplavit? Ovšemže by to bylo příjemnější, ale našim chlapcům to není nic platné, ti musí za svou povinností. Pospíchají, aby už raději byli na místě, a Valnoha vzdychá a běduje, že tu nemá své kolo a musí se takhle štvát po světě pěšky.
 
 Když jsou pár kroků od kůlny za Ferbusovou hospodou, zastaví se na chvíli a radí se, co dřív. Valnoha se Zrzkem jsou pro to, aby nejdřív vybrali Ferbusovou skrýši a pak teprve šli pro holčičku.
@@ -64,3 +66,5 @@ Valnoha se rozhlédne bezradně po návsi, hledá, kdo by jim pomohl, ale náves
 Ale nic mu neodpovídá, jenom praskot ohně, najednou jasně slyšitelný pláč děvčátka a slyš – jeden, druhý, třetí, čtvrtý pes se divoce rozštěkali. Ach hoši! Takoví junáci jste, přece to tu neprohrajete. Copak již není žádné pomoci?
 
 Dým se valí proti chlapcům, dusí je a nutí ustupovat dál a dál.
+
+</section>

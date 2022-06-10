@@ -3,6 +3,8 @@ title: TŘINÁCTÁ KAPITOLA Příběh se nám zamotává
 contentType: prose
 ---
 
+<section>
+
 Zloděj postál chvíli u zahradních vrátek a rozhlížel se po prázdné návsi. Najednou se otevřely dveře hostince, ozval se pronikavý pláč a vyběhlo děvčátko asi pětileté. Plakalo a utíkalo přes dvorek ke vrátkům. V otevřených dveřích hostince se objevil ohromný chlapík s rudou tváří a sumčím knírem pod nosem: hostinský Ferbus, oblečený tak, jak stával za svým výčepním stolem, bez kabátu, ve vestě a v košili s vykasanými rukávy.
 
 – Ještě jednou tě tam chytím a zpřerážím ti ruce, křičel za vyděšeným děvčátkem.
@@ -100,3 +102,5 @@ Stařec přemýšlí, až zapomene kouřit a dýmka mu vyhasne. Kluci jsou netr
 – Pojďte sem, chlapci, hezky blízko ke mně, zve Valnohu, Zrzka a Sirku. – Povíme si, kudy na to.
 
 Začnou se radit. Zamkli dveře a povídají si šeptem, jak se na pořádné spiklence sluší. A protože je to šeptem, a za zavřenými dveřmi, tak jim nerozumíme ani slovo. Ostatně proč bychom tu naslouchali a napínali uši u klíčové dírky, když se to ani nesluší. Podíváme se raději, jak provedli, na čem se uradili.
+
+</section>

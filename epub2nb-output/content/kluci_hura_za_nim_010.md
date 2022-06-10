@@ -3,6 +3,8 @@ title: ŠESTÁ KAPITOLA Kdo byl děd Zachariáš
 contentType: prose
 ---
 
+<section>
+
 Dědova noha nebyla zlomená, jen vymknutá v kotníku. Valnoha svolal své kamarády, kteří se beztak začínali vracet, protože jak by mohli ostatní utéci, když jeden zůstal v nebezpečí. Všichni společně pomohli starci dobelhat se zpátky do domu. Byl to perný kousek cesty, a zpotili se při něm všichni: stařec i chlapci.
 
 Valnoha, Zrzek i Sirka se omlouvali, jak nejlépe dovedli. Stařec se jim posmíval. Pane, byl to stařec, široký a statný jako dub, když se vzpřímil, stál mezi kluky jako Gulliver mezi Liliputány. Hoši chtěli běžet pro lékaře, ale stařec jim poručil, aby mu podali svazek širokých pruhů lýka, jimiž ovíjel roubované stromy. Namočil několik pruhů ve vodě, kterou mu donesli, a pak jim poručil, aby mu kroutili nohou tak dlouho, až mu v ní rupne. Když si vydychl z bolesti, kterou mu to působilo, ovázal si nohu zvlhlým lýkem a vyložil chlapcům, že je to nový způsob, jakého užívají jihoameričtí indiáni při takových zraněních.
@@ -22,3 +24,5 @@ Nejvíc ovšem hochy i děda Zachariáše lákaly vykopávky z dalekých kraji
 Děd Zachariáš vzpomínal všech nebezpečí, kterým unikl, všech dobrodružství, jimiž prošel, a chlapci na něm mohli oči nechat. Pane, tohle všechno by se jim hodilo: ti indiáni i s jejich otrávenými šípy, ti hadi, třebas byli sebejedovatější, a cesty na řekách, pod klenbou nekonečných pralesů. A když se jim dost navyprávěl, pouštěl je děd Zachariáš za dům na zahradu, aby si pod jejími stromy a v houštinách hráli na všechno, co od něho právě slyšeli.
 
 Takový byl děd Zachariáš a tak vzniklo a takové bylo jeho přátelství s Valnohou, Sirkou a Zrzkem.
+
+</section>

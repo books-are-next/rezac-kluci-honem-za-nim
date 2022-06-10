@@ -3,6 +3,8 @@ title: OSMÁ KAPITOLA Křišťálová koule
 contentType: prose
 ---
 
+<section>
+
 Když je obřad u konce, děd Zachariáš zamíří k malované truhle. Kluci sledují pozorně každý pohyb. Stařec se hrabe chvíli v truhlici, někde hluboko, až na jejím dně, a pak se vrací ke stolu u okna. V obou dlaních nese něco, co kluci nemohou rozeznat. Trnou tak, jako by, až děd Zachariáš rozevře dlaně, měl nastat výbuch a rozmetat celý svět.
 
 Vidím, že už taky můžete prasknout zvědavostí. Děd Zachariáš to položil, tak se honem podívejte. Na stole leží koule. Vypadá jako skleněná a není větší než tenisový míč. Je dokonale průsvitná, světlo se v ní láme a hraje duhovými barvami. Jste zklamáni? Valnoha, Zrzek a Sirka také. Po tolikerých přípravách, po takovém tajnůstkářství, slibech a zaklínání se vytasí děd se skleněnou kuličkou. Co to má znamenat? Mají si hrát, místo aby se vážně radili a hledali východisko z nouze? Děd Zachariáš si z nás asi tropí šašky. Jen počkejte! Copak jste už tak zkaženi, že si nevážíte prostých věcí? Zvykli jste si tolik na složité stroje, zázraky techniky a jiné vymoženosti, že je vám lhostejná kapka vody, třpytící se na listě stromu? A přece, kdybyste ji uviděli pod drobnohledem, užasli byste, co života je v ní skryto. Možná že tato skleněná kulička, které se posmíváte, je právě takovou kapkou nebo i celou tůní ještě větších překvapení.
@@ -74,3 +76,5 @@ Ano, je to Buřťoun, úhlavní nepřítel Sirkův i obou jeho kamarádů, a t
 – To by se ti asi nepodařilo. Byl to jen obraz, vysvětluje děd a směje se. – Nepřál sis dost silně vidět něco určitého, a tak se ti ukázalo to, co tě nejvíc mrzí. To se stává. A nyní si pěkně oddychni, napij se trochu vody a pak to zkusíš znova. Musíš si přát, abys viděl toho zloděje.
 
 Zrzek a Valnoha mají tisíc chutí vyptávat se Sirky na podrobnosti. Děd Zachariáš je však okřikne a připamatuje jim, že Sirka potřebuje naprostý klid. Valnoha se postaví opodál a dívá se na Sirku jako na spadlého z měsíce. Stále ještě se mu nechce věřit, připadá mu to všechno příliš zázračné a nechce se mu to srovnat s ničím, co o světě dosud ví. Sirka však nevypadal, jako by se přetvařoval a sehrál jim divadlo. Musí mu to všecko vysvětlit a dát čestné slovo, že tomu opravdu tak bylo. Ostatně Sirka sám nevěří svým očím, když o tom teď přemýšlí. Bylo to jako ve snu. Ale ten Buřťoun tam opravdu byl, to mu žádný nevyvrátí. Kéž by ho byl mohl popadnout a pořádně jím zatřepat. Teď však nesmí myslit na Buřťouna, nýbrž na zloděje a na to, kde se teď asi skrývá. A jak tohle Sirku napadne, je opět čilý jako ryba a nemá stání.
+
+</section>
