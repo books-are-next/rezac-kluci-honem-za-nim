@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-7f070f7';
+const CACHE = 'cache-72ac7ba';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./kluci_hura_za_nim_005.html","./kluci_hura_za_nim_006.html","./kluci_hura_za_nim_007.html","./kluci_hura_za_nim_008.html","./kluci_hura_za_nim_009.html","./kluci_hura_za_nim_010.html","./kluci_hura_za_nim_011.html","./kluci_hura_za_nim_012.html","./kluci_hura_za_nim_013.html","./kluci_hura_za_nim_014.html","./kluci_hura_za_nim_015.html","./kluci_hura_za_nim_016.html","./kluci_hura_za_nim_017.html","./kluci_hura_za_nim_018.html","./kluci_hura_za_nim_019.html","./kluci_hura_za_nim_020.html","./kluci_hura_za_nim_021.html","./kluci_hura_za_nim_022.html","./kluci_hura_za_nim_023.html","./kluci_hura_za_nim_024.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_kluci_hura_za_nim.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./kluci_hura_za_nim_005.html","./kluci_hura_za_nim_006.html","./kluci_hura_za_nim_007.html","./kluci_hura_za_nim_008.html","./kluci_hura_za_nim_009.html","./kluci_hura_za_nim_010.html","./kluci_hura_za_nim_011.html","./kluci_hura_za_nim_012.html","./kluci_hura_za_nim_013.html","./kluci_hura_za_nim_014.html","./kluci_hura_za_nim_015.html","./kluci_hura_za_nim_016.html","./kluci_hura_za_nim_017.html","./kluci_hura_za_nim_018.html","./kluci_hura_za_nim_019.html","./kluci_hura_za_nim_020.html","./kluci_hura_za_nim_021.html","./kluci_hura_za_nim_022.html","./kluci_hura_za_nim_023.html","./kluci_hura_za_nim_024.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_kluci_hura_za_nim.jpg","./resources/image002.jpg","./resources/upoutavka_eknihy.jpg"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
