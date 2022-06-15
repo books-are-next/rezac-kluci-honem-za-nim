@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-kluci-hura-za-nim-72ac7ba",
-  "revision": "72ac7ba",
+  "identifier": "rezac-kluci-hura-za-nim-bb31b2b",
+  "revision": "bb31b2b",
   "readingOrder": [
     "promo.html",
     "kluci_hura_za_nim_005.html",
@@ -34,8 +34,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:56:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157406106
+    "date": "Wed Jun 15 2022 05:55:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272539874
   },
   "documents": [
     {
@@ -453,9 +453,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 828,
-      "ideas": 17,
+      "words": 155,
+      "chars": 991,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "kluci_hura_za_nim_024.html",
@@ -473,9 +473,9 @@
   ],
   "totals": {
     "all": {
-      "words": 30969,
-      "chars": 173672,
-      "ideas": 734
+      "words": 30988,
+      "chars": 173835,
+      "ideas": 735
     },
     "chapters": {
       "words": 30826,
