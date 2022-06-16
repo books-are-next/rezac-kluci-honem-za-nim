@@ -8,8 +8,9 @@
       "author": "Václav Řezáč",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-04T00:00:00.000Z",
-      "publisherShort": "MKP",
-      "isbn": "978-80-7335-286-8; 978-80-87440-29-2"
+      "publisherShort": "mkp",
+      "isbn": "978-80-7335-286-8; 978-80-87440-29-2",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
