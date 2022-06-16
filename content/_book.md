@@ -11,8 +11,9 @@ meta:
   author: Václav Řezáč
   publisher: Městská knihovna v Praze
   modified: '2021-11-04T00:00:00.000Z'
-  publisherShort: MKP
+  publisherShort: mkp
   isbn: 978-80-7335-286-8; 978-80-87440-29-2
+  edition: beletrie
 readingOrder:
   - promo.html
   - kluci_hura_za_nim_005.html
