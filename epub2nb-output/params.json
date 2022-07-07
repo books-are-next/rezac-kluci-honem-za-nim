@@ -65,7 +65,7 @@
             "filename": "kluci_hura_za_nim_003.md",
             "xhtml": "kluci_hura_za_nim_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "kluci_hura_za_nim_004.md",
             "xhtml": "kluci_hura_za_nim_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -349,7 +349,7 @@
             "filename": "kluci_hura_za_nim_025.md",
             "xhtml": "kluci_hura_za_nim_025.xhtml",
             "id": 24,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -584,6 +584,6 @@
       "user": "books-are-next",
       "repo": "rezac-kluci-honem-za-nim"
     },
-    "generatedAt": 1655979523705
+    "generatedAt": 1657182388519
   }
 }

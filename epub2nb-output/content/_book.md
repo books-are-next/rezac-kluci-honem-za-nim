@@ -36,7 +36,7 @@ readingOrder:
   - kluci_hura_za_nim_022.html
   - kluci_hura_za_nim_023.html
   - kluci_hura_za_nim_024.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

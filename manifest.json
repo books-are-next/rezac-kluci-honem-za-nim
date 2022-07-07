@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-kluci-hura-za-nim-d5a32ed",
-  "revision": "d5a32ed",
+  "identifier": "rezac-kluci-hura-za-nim-50eda6a",
+  "revision": "50eda6a",
   "readingOrder": [
     "promo.html",
     "kluci_hura_za_nim_005.html",
@@ -32,11 +32,11 @@
     "kluci_hura_za_nim_022.html",
     "kluci_hura_za_nim_023.html",
     "kluci_hura_za_nim_024.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:23:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979831073
+    "date": "Thu Jul 07 2022 08:38:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183088812
   },
   "documents": [
     {
@@ -65,7 +65,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují",
+          "name": "PRVNÍ KAPITOLA Valnoha, Zrzek a Sirka se představují",
           "id": null,
           "children": []
         }
@@ -105,7 +105,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘETÍ KAPITOLA Kdo je tam?",
+          "name": "TŘETÍ KAPITOLA Kdo je tam?",
           "id": null,
           "children": []
         }
@@ -125,7 +125,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTVRTÁ KAPITOLA Kluci, hurá za ním!",
+          "name": "ČTVRTÁ KAPITOLA Kluci, hurá za ním!",
           "id": null,
           "children": []
         }
@@ -225,7 +225,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DEVÁTÁ KAPITOLA Co viděl Sirka",
+          "name": "DEVÁTÁ KAPITOLA Co viděl Sirka",
           "id": null,
           "children": []
         }
@@ -245,7 +245,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DESÁTÁ KAPITOLA Už ho máme!",
+          "name": "DESÁTÁ KAPITOLA Už ho máme!",
           "id": null,
           "children": []
         }
@@ -265,7 +265,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili?",
+          "name": "JEDENÁCTÁ KAPITOLA Proč jste ho pustili?",
           "id": null,
           "children": []
         }
@@ -305,7 +305,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává",
+          "name": "TŘINÁCTÁ KAPITOLA Příběh se nám zamotává",
           "id": null,
           "children": []
         }
@@ -325,7 +325,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?",
+          "name": "ČTRNÁCTÁ KAPITOLA Co si přejí mladí páni?",
           "id": null,
           "children": []
         }
@@ -345,7 +345,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PATNÁCTÁ KAPITOLA Už je tam!",
+          "name": "PATNÁCTÁ KAPITOLA Už je tam!",
           "id": null,
           "children": []
         }
@@ -365,7 +365,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!",
+          "name": "ŠESTNÁCTÁ KAPITOLA Pozor, vojáci! Chopte se ho!",
           "id": null,
           "children": []
         }
@@ -385,7 +385,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá",
+          "name": "SEDMNÁCTÁ KAPITOLA Nyklíček se zpovídá",
           "id": null,
           "children": []
         }
@@ -440,7 +440,7 @@
       "role": "chapter",
       "order": 20,
       "prev": "kluci_hura_za_nim_023.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -453,11 +453,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 155,
-      "chars": 991,
+      "chars": 990,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kluci_hura_za_nim_024.html",
       "next": null,
@@ -474,8 +474,8 @@
   ],
   "totals": {
     "all": {
-      "words": 30989,
-      "chars": 173843,
+      "words": 30988,
+      "chars": 173847,
       "ideas": 736
     },
     "chapters": {
