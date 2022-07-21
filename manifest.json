@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-kluci-hura-za-nim-68ad8bc",
-  "revision": "68ad8bc",
+  "identifier": "rezac-kluci-hura-za-nim-fb8dc2d",
+  "revision": "fb8dc2d",
   "readingOrder": [
     "promo.html",
     "kluci_hura_za_nim_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:05:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188342140
+    "date": "Thu Jul 21 2022 14:34:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414071381
   },
   "documents": [
     {
@@ -455,7 +455,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 155,
-      "chars": 990,
+      "chars": 991,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -474,8 +474,8 @@
   ],
   "totals": {
     "all": {
-      "words": 30988,
-      "chars": 173847,
+      "words": 30989,
+      "chars": 173843,
       "ideas": 736
     },
     "chapters": {
