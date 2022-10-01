@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-kluci-hura-za-nim-56ffb07",
-  "revision": "56ffb07",
+  "identifier": "rezac-kluci-hura-za-nim-fb6662c",
+  "revision": "fb6662c",
   "readingOrder": [
     "promo.html",
     "kluci_hura_za_nim_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:33:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487218488
+    "date": "Sat Oct 01 2022 16:03:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640181499
   },
   "documents": [
     {
