@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-a8ad73d';
+const CACHE = 'cache-ba6f848';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
